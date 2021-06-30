@@ -1,3 +1,25 @@
+1. create repo and environment
+2. create .env file, add API key
+3. install dotenv
+4. update webpack
+5. Test API key
+6. write class and fetch stuff
+
+
+
+
+
+
+Look for asteroids miss_distance from earth, sort by distance
+
+
+
+
+
+
+
+
+
 # (Application Name)
 
 #### (Brief Description of Application)

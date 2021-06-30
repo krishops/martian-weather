@@ -1,9 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Rename Project</title>
+  <title>Martian Weather</title>
 </head>
 <body>
-  
+  <div class="container">
+    <h2>How close are we to Armageddon?</h2>
+    <form id="asteroidData">
+    <label for="startDate">Start Date:</label>
+    <input type="text" id="startDate">
+    <label for="endDate">End Date:</label>
+    <input type="text" id="endDate">
+    <button class="btn btn-primary" id="getAsteroids">Submit</button>
+  </form>
+  <div class="distK"></div>
+  <div class="distM"></div>
+  <div class="showErrors"></div>
+  </div>
 </body>
 </html>
